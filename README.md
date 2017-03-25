@@ -12,7 +12,7 @@ Docker-compose should be version 1.6 or higher.
 
 Clone the repo
 
-$ git clone https://github.com/gangachris/mean-docker
+$ git clone https://github.com/rainstormza/mean-docker-ng4.git
 Run docker
 
 $ docker-compose up
