@@ -17,3 +17,6 @@ Run docker
 
 $ docker-compose up
 App should be running in localhost:4200
+
+
+fork from : https://github.com/gangachris/mean-docker
